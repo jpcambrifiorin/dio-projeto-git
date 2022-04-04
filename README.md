@@ -2,5 +2,5 @@
  ## Projeto de introdução ao git pela DIO
 ___
 
-#Links
+# Links<br>
 [sintaxe markdown](https://www.markdownguide.org/basic-syntax/)
